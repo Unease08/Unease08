@@ -26,11 +26,11 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nepal4972&theme=dracula)](https://github.com/nepal4972/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Unease08&theme=dracula)](https://github.com/Unease08/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal4972&show_icons=true&locale=en&layout=compact&theme=radical" alt="nepal4972" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Unease08&show_icons=true&locale=en&layout=compact&theme=radical" alt="Unease08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal4972&theme=radical&show_icons=true&locale=en" alt="nepal4972" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Unease08&theme=radical&show_icons=true&locale=en" alt="Unease08" /></p>
 
 ###
 
