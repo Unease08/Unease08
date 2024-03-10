@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anish-shrestha-a1544025b/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/youngborn21" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   <a href="https://twitter.com/anisheyyy_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-   <a href="[https://twitter.com/anisheyyy_](https://www.instagram.com/npm.anish/)" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+   <a href="https://www.instagram.com/npm.anish/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
