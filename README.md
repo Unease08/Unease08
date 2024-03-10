@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from Biratnagar, Nepal<br><br>- 🔭 I’m working as React Js Developer<br>- 📚 I'm currently learning BCA<br>- ⚡ In my free time I ...</p>
 
 ###
 
