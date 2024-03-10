@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unease08&"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Unease08&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
 
 ###
 
